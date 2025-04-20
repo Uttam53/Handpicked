@@ -1,0 +1,1 @@
+<img class="w-40 h-40" src="{{ URL('images/logo.png') }}" alt="Handpickd Logo">
