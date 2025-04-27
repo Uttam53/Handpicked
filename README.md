@@ -50,7 +50,7 @@ Handpickd requires the following tools to run:
 ### 2. Clone and Setup
 bash
 # Clone the repository
-git clone https://github.com/tanmaya-panigrahi/handpickd.git
+git clone https://github.com/Uttam53/handpickd.git
 
 # Navigate to the repository
 cd handpickd
